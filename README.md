@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nalan Kurnaz</h1>
-<h3 align="center">Student at uOttawa</h3>
+<h3 align="center">Computer Science Student at uOttawa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalank1&label=Profile%20views&color=0e75b6&style=flat" alt="nalank1" /> </p>
 
