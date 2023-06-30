@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalank1&label=Profile%20views&color=0e75b6&style=flat" alt="nalank1" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++ and SQL**
 
-- 💬 Ask me about **Python, MATLAB**
+- 💬 Ask me about **Python, MATLAB, Java**
 
 - 📫 How to reach me **nkurn026@uottawa.ca**
 
