@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nkurn026@uottawa.ca**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nalan-kurnaz](www.linkedin.com/in/nalan-kurnaz)
+- 📄 Know more about my experiences [My LinkedIn](https://www.linkedin.com/in/nalan-kurnaz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
